@@ -27,7 +27,7 @@
   В папке «Project» есть все мои JavaScript проекты, также проекты по верстке.
 
 ###
-<img align="right" src="https://github.com/VachTom/VachTom/blob/main/gifs/energy_power.gif" hight="400" width="560" alt="GIF">
+<img align="right" src="https://github.com/VachTom/VachTom/blob/main/gifs/energy_power.gif" hight="400" width="570" alt="GIF">
 <h3 align="left">Образование, опыт <img src="https://github.com/VachTom/VachTom/blob/main/gifs/job.gif?raw=false" href="https://github.com/VachTom" alt="job" width="45"></h3>
 📖 Высшее образование: Экономист (бакалавр, 2020г);<br> 
 👨🏻‍💻 Опыт работы Экономистом-Аналитиком, в сфере ЖКС;<br>
@@ -36,9 +36,10 @@
 ###
 
 <h3 align="left">Увлечения, хобби <img src="https://github.com/VachTom/VachTom/blob/main/gifs/hobiz.gif?raw=false" href="https://github.com/VachTom" alt="hobiz" width="45"></h3>
-⚡ Чтение книг, шахматы, медитация, баня, бассейн;<br>
-🎹 Музыкант (самоучка, с 2018г);<br> 
-📊 Систематизированное отслеживание и аналитика ежедневных привычек в Table;<br>
+📊 Систематизированное отслеживание и аналитика ежедневных привычек в Google-Table;<br>
+📚 Чтение книг, шахматы;<br> 
+⚡ Бассейн, баня, медитация;<br>
+🎹 Музыка (самоучка);<br> 
 <p><img src="https://github.com/VachTom/VachTom/blob/main/gifs/power.gif?raw=true" href="https://github.com/VachTom" alt="power" width="18"> 14 лет занимался вольной борьбой (КМС), 2 года занимался боксом, фитнес.</p>
 
 ###
