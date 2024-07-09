@@ -26,3 +26,60 @@
   
   В папке «Project» есть все мои JavaScript проекты, также проекты по верстке.
 
+
+###
+<img align="right" src="https://github.com/VachTom/VachTom/blob/main/energy_power.gif" hight="400" width="560" alt="GIF">
+<h3 align="left">Образование, опыт <img src="https://github.com/VachTom/VachTom/blob/main/gifs/job.gif?raw=false" href="https://github.com/VachTom" alt="job" width="45"></h3>
+📖 Высшее образование: Экономист (бакалавр, 2020г);<br> 
+👨🏻‍💻 Опыт работы Экономистом-Аналитиком, в сфере ЖКС;<br>
+<p><img src=https://i.giphy.com/47HLDDEyIAtswEbWVe.webp width="22"> Опыт работы Ведущим Аналитиком данных, в сфере логистики.</p>
+
+###
+
+<h3 align="left">Увлечения, хобби <img src="https://github.com/VachTom/VachTom/blob/main/gifs/hobiz.gif?raw=false" href="https://github.com/VachTom" alt="hobiz" width="45"></h3>
+⚡ Чтение книг, шахматы, медитация, баня, бассейн;<br>
+🎹 Музыкант (самоучка, с 2018г);<br> 
+📊 Систематизированное отслеживание и аналитика ежедневных привычек в Table;<br>
+<p><img src="https://github.com/VachTom/VachTom/blob/main/gifs/power.gif?raw=true" href="https://github.com/VachTom" alt="power" width="18"> 14 лет занимался вольной борьбой (КМС), 2 года занимался боксом, фитнес.</p>
+
+###
+<p align="left">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
+
+<h3 align="left">Технологии <img src="https://github.com/VachTom/VachTom/blob/main/gifs/texn?raw=true" href="https://github.com/VachTom" alt="texn" width="25"></h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=c#" height="40" alt="c# logo"  />
+</div>
+
+###
+
+<h3 align="left">Моя статистика<img src="https://github.com/VachTom/VachTom/blob/main/gifs/fire.gif?raw=true" href="https://github.com/VachTom" alt="fire" width="45"></h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=VachTom&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VachTom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+
+
