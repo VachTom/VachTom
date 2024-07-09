@@ -16,7 +16,7 @@
   <a href="https://vk.com/sermon76" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Vk&logo=VK&label=&color=4C75A3&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Vk logo"/>
   </a>
-  <a href="https://mail.ru/sermon76" target="_blank">
+  <a href="https://e.mail.ru/tovm2504@mail.ru" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=mail&label=&color=005FF9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Mail logo"/>
   </a>
 </div>
