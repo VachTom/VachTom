@@ -1,16 +1,28 @@
-## Hi there 👋
+<br clear="both">
+<div align="center">
+  <img src="https://github.com/VachTom/VachTom/blob/main/record/gifs/dev_working.gif?raw=true" href="https://github.com/VachTom" alt="Coding" width="60%"/><br> 
+</div>
 
-<!--
-**VachTom/VachTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Меня зовут Вачик!</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <a href="https://t.me/sermon76" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
+  </a>
+</div>
+
+<h3 align="left">Обо мне <img src="https://github.com/VachTom/VachTom/blob/main/about_me2.gif?raw=true" href="https://github.com/VachTom" alt="about_me" width="25"/> </h3>
+
+###
+
+<p align="left">Я начинающий Frontend разработчик. Мой путь в IT начался с онлайн-обучения в GeekBrains, где я проходил курс «Программист».<br> 
+  В поисках своей специалицации, я пробовал изучать различные языки программирования С#, Python, Java, но больше всего меня зацепила Frontend-разработка!
+  
+  С марта 2024 года я изучаю Frontend-разработку на курсе по JavaScript от популярного YouTube блоггера Юрия Ключевского. В настоящий момент, изучаю библиотеку React.</p>
+  
+  В папке «Project» есть все мои JavaScript проекты, также проекты по верстке.
+
