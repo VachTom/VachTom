@@ -1,11 +1,11 @@
 <br clear="both">
 <div align="center">
-  <img src="https://github.com/VachTom/VachTom/blob/main/gifs/dev_working.gif?raw=true" href="https://github.com/VachTom" alt="Coding" width="60%"/><br> 
+  <img src="https://github.com/VachTom/VachTom/blob/main/gifs/dev-working.gif?raw=true" href="https://github.com/VachTom" alt="Coding" width="60%"/><br> 
 </div>
 
 ###
 
-<h1 align="center">Привет <img src="https://github.com/VachTom/VachTom/blob/main/gifs/dev_working.gif?raw=true" href="https://github.com/VachTom alt="Hello" width="3%"> Меня зовут Вачик!</h1>
+<h1 align="center">Привет <img src="https://github.com/VachTom/VachTom/blob/main/gifs/Hello.gif?raw=true" href="https://github.com/VachTom alt="Hello" width="3%"> Меня зовут Вачик!</h1>
 
 ###
 
