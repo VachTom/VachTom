@@ -8,10 +8,10 @@
 <h1 align="center">Привет <img src="https://github.com/VachTom/VachTom/blob/main/gifs/Hello.gif?raw=true" href="https://github.com/VachTom alt="Hello" width="3%"> Меня зовут Вачик!</h1>
 
 ###
-
+2CA5E0
 <div align="center">
   <a href="https://t.me/sermon76" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
   </a>
   <a href="https://vk.com/sermon76" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Vk&logo=VK&label=&color=4C75A3&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Vk logo"/>
