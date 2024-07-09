@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img src="https://github.com/VachTom/VachTom/blob/main/gifs/dev-working.gif?raw=true" href="https://github.com/VachTom" alt="Coding" width="60%"/><br> 
+  <img src="https://github.com/VachTom/VachTom/blob/main/gifs/dev-working.gif?raw=true" href="https://github.com/VachTom" alt="Coding" width="65%"/><br> 
 </div>
 
 ###
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<h3 align="left">Обо мне <img src="https://github.com/VachTom/VachTom/blob/main/about_me2.gif?raw=true" href="https://github.com/VachTom" alt="about_me" width="25"/> </h3>
+<h3 align="left">Обо мне <img src="https://github.com/VachTom/VachTom/blob/main/gifs/about_me2.gif?raw=true" href="https://github.com/VachTom" alt="about_me" width="25"/> </h3>
 
 ###
 
