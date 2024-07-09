@@ -37,7 +37,7 @@
 
 <h3 align="left">Увлечения, хобби <img src="https://github.com/VachTom/VachTom/blob/main/gifs/hobiz.gif?raw=false" href="https://github.com/VachTom" alt="hobiz" width="45"></h3>
 📊 Систематизированное отслеживание и аналитика ежедневных привычек в Google-Table;<br>
-📚 Чтение книг, шахматы;<br> 
+♟ Чтение книг, шахматы;<br> 
 ⚡ Бассейн, баня, медитация;<br>
 🎹 Музыка (самоучка);<br> 
 <p><img src="https://github.com/VachTom/VachTom/blob/main/gifs/power.gif?raw=true" href="https://github.com/VachTom" alt="power" width="18"> 14 лет занимался вольной борьбой (КМС), 2 года занимался боксом, фитнес.</p>
