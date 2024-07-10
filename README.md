@@ -14,9 +14,7 @@
   <a href="https://mail.ru/tovm2504@mail.ru" target="_blank"><img src="https://img.shields.io/static/v1?message=Mail&logo=mail&label=&color=005FF9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Mail logo"/></a>
 </div>
 <h3 align="left">Обо мне <img src="https://github.com/VachTom/VachTom/blob/main/gifs/about_me2.gif?raw=true" href="https://github.com/VachTom" alt="about_me" width="25"/> </h3>
-
 ###
-
 <p align="left">Я начинающий Frontend разработчик. Мой путь в IT начался с онлайн-обучения в GeekBrains, где я проходил курс «Программист».<br> 
   В поисках своей специалицации, я пробовал изучать различные языки программирования С#, Python, Java, но больше всего меня зацепила Frontend-разработка!
   
