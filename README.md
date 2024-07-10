@@ -7,7 +7,6 @@
 
 <h1 align="center">Привет <img src="https://github.com/VachTom/VachTom/blob/main/gifs/Hello.gif?raw=true" href="https://github.com/VachTom alt="Hello" width="3%"> Меня зовут Вачик!</h1>
 
-###
 <div align="center">
    <a href="https://github.com/VachTom" target="_blank"><img src="https://img.shields.io/static/v1?message=github&logo=GitHub&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"/></a>
    <a href="https://t.me/sermon76" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/></a>
