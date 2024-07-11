@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img src="https://github.com/VachTom/VachTom/blob/main/gifs/dev-working2.gif?raw=true" href="https://github.com/VachTom" alt="Coding" width="50%"/><br> 
+  <img src="https://github.com/VachTom/VachTom/blob/main/gifs/dev-working2.gif?raw=true" href="https://github.com/VachTom" alt="Coding" width="55%"/><br> 
 </div>
 
 ###
