@@ -23,7 +23,7 @@
   В папке «Project» есть все мои JavaScript проекты, также проекты по верстке.
 
 ###
-<img align="right" src="https://github.com/VachTom/VachTom/blob/main/gifs/energy_power.gif" hight="400" width="515" alt="GIF">
+<img align="right" src="https://github.com/VachTom/VachTom/blob/main/gifs/energy_power.gif" hight="400" width="505" alt="GIF">
 <h3 align="left">Образование, опыт <img src="https://github.com/VachTom/VachTom/blob/main/gifs/job.gif?raw=false" href="https://github.com/VachTom" alt="job" width="45"></h3>
 📖 Высшее образование: Экономист (бакалавр, 2020г);<br> 
 👨🏻‍💻 Опыт работы Экономистом-Аналитиком, в сфере ЖКС;<br>
