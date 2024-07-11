@@ -39,11 +39,6 @@
 <p><img src="https://github.com/VachTom/VachTom/blob/main/gifs/power.gif?raw=true" href="https://github.com/VachTom" alt="power" width="18"> 14 лет занимался вольной борьбой (КМС), 2 года занимался боксом, фитнес.</p>
 
 ###
-<p align="left">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
 
 <h3 align="left">Технологии <img src="https://github.com/VachTom/VachTom/blob/main/gifs/texn.gif?raw=true" href="https://github.com/VachTom" alt="texn" width="25"></h3>
 
